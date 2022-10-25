@@ -1,0 +1,14 @@
+{
+  "name": "tennis-kata",
+  "version": "1.0.0",
+  "description": "Tennis kata TDD using JEST ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "author": "Senthilnadan Jothi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
