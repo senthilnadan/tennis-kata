@@ -8,5 +8,4 @@ If at least three points have been scored by each side and a player has one more
 
 Inspired by Emily Bache
 
-The original Tennis kata was developed by Emily Bache and can be found in a multi-language version at https://github.com/emilybache/Tennis-Refactoring-Kata. This Ruby-only version was prepared by David Vrensk.
-
+The original Tennis kata was developed by Emily Bache and can be found in a multi-language version at https://github.com/emilybache/Tennis-Refactoring-Kata. This JavaScript- version was prepared for experimentation.
